@@ -1,6 +1,6 @@
 1. Project Overview
 
-This project is a Hand Gesture Controlled Game Controller built using Python, OpenCV, MediaPipe, and PyAutoGUI.
+This project is a Hand Gesture Controller built using Python, OpenCV, MediaPipe, and PyAutoGUI.
 
 The system detects hand gestures through a webcam and converts them into keyboard actions for controlling games such as:
 
